@@ -5,16 +5,16 @@ MeAqua untersucht die mehrsprachige Dimension der deutschen Literaturgeschichte 
 
 ## Inhalt des Repositories
 
-Dokumentationstabellen zum Recherche- und Erfassungsprozess
-CSV-Tabellen mit den strukturierten Daten zu Autor:innen, Orten, Sprachen, Geschlecht und Werken
-Eine LibreOffice-Datenbank mit relationaler Datenstruktur
-Aufbereitete Daten zur Weiterverarbeitung in NodeGoat
+- Dokumentationstabellen zum Recherche- und Erfassungsprozess, 
+- CSV-Tabellen mit den strukturierten Daten zu Autor:innen, Orten, Sprachen, Geschlecht und Werken. 
+- Eine LibreOffice-Datenbank mit relationaler Datenstruktur.
+- Aufbereitete Daten zur Weiterverarbeitung in NodeGoat.
 
 ## Datenstruktur
 Der Datensatz enthält:
-Biographische Daten der Autor:innen (mit GND-Identifiern, soweit vorhanden)
-Geographische Informationen (mit GeoNames-IDs)
-Sprachkenntnisse
+- Biographische Daten der Autor:innen (mit GND-Identifiern, soweit vorhanden)
+- Geographische Informationen (mit GeoNames-IDs)
+- Sprachkenntnisse
 Werke und Publikationen
 Geschlechterinformationen
 Zeiträume und Aufenthaltsorte
