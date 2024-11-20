@@ -21,10 +21,10 @@ Der Datensatz enthält:
 
 ## Dokumentation
 Der vollständige Forschungsbericht zum Projekt erscheint auf Zenodo: 
-Mende, J.-K., Franke, A., Schmitt, V., & Wallner, K. (2024). MeAqua: Mehrsprachige Autor:innen des 19. Jahrhunderts quantitativ erforschen. Ein Forschungsbericht. Zenodo. https://doi.org/10.5281/zenodo.14194128 [ https://doi.org/10.5281/zenodo.14194128]
+Mende, J.-K., Franke, A., Schmitt, V., & Wallner, K. (2024). MeAqua: Mehrsprachige Autor:innen des 19. Jahrhunderts quantitativ erforschen. Ein Forschungsbericht. Zenodo. https://doi.org/10.5281/zenodo.14194128.
 
 ## Zitierweise
-Mende, J.-K., Franke, A., Schmitt, V., & Wallner, K. (2024). MeAqua: Mehrsprachige Autor:innen des 19. Jahrhunderts quantitativ erforschen. Datensatz. https://github.com/JaKaMen/meaqua/ [https://github.com/JaKaMen/meaqua/]
+Mende, J.-K., Franke, A., Schmitt, V., & Wallner, K. (2024). MeAqua: Mehrsprachige Autor:innen des 19. Jahrhunderts quantitativ erforschen. Datensatz. https://github.com/JaKaMen/meaqua/.
 
 ## Projektteam
 
@@ -59,10 +59,10 @@ The dataset includes information about:
 
 ## Documentation
 The complete research report for this project is available on Zenodo:
-Mende, J.-K., Franke, A., Schmitt, V., & Wallner, K. (2024). MeAqua: Mehrsprachige Autor:innen des 19. Jahrhunderts quantitativ erforschen. Ein Forschungsbericht. Zenodo. https://doi.org/10.5281/zenodo.14194128 [ https://doi.org/10.5281/zenodo.14194128]
+Mende, J.-K., Franke, A., Schmitt, V., & Wallner, K. (2024). MeAqua: Mehrsprachige Autor:innen des 19. Jahrhunderts quantitativ erforschen. Ein Forschungsbericht. Zenodo. https://doi.org/10.5281/zenodo.14194128.
 
 ## Citation
-Mende, J.-K., Franke, A., Schmitt, V., & Wallner, K. (2024). MeAqua: Mehrsprachige Autor:innen des 19. Jahrhunderts quantitativ erforschen. Datensatz. https://github.com/JaKaMen/meaqua/ [https://github.com/JaKaMen/meaqua/]
+Mende, J.-K., Franke, A., Schmitt, V., & Wallner, K. (2024). MeAqua: Mehrsprachige Autor:innen des 19. Jahrhunderts quantitativ erforschen. Datensatz. https://github.com/JaKaMen/meaqua/.
 
 ## Project Team
 - Jana-Katharina Mende (Project Lead, Comparative Literature)
