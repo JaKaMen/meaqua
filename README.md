@@ -28,7 +28,7 @@ Jana-Katharina Mende (Projektleitung, Komparatistik)
 Karin Wallner (Datenmanagement)
 Anna Maria Franke (Recherche)
 Verena Schmitt (Recherche)
-
+## Förderung
 Das Projekt wurde durch das HERMES Forschungsstudienprogramm gefördert.
 
 # MeAqua - Quantitative Research on Multilingual Authors of the 19th Century
@@ -57,10 +57,9 @@ Time periods and locations
 The complete research report for this project is available on Zenodo [Link to be added when published].
 
 ## Project Team
-
 Jana-Katharina Mende (Project Lead, Comparative Literature)
 Karin Wallner (Data Management)
 Anna Maria Franke (Research)
 Verena Schmitt (Research)
-
+## Funding 
 This project was funded by the HERMES Research Study Program.
