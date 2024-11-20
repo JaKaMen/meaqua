@@ -20,7 +20,8 @@ Der Datensatz enthält:
 - Zeiträume und Aufenthaltsorte
 
 ## Dokumentation
-Der vollständige Forschungsbericht zum Projekt erscheint auf Zenodo [Link folgt nach Veröffentlichung].
+Der vollständige Forschungsbericht zum Projekt erscheint auf Zenodo: 
+Mende, J.-K., Franke, A., Schmitt, V., & Wallner, K. (2024). MeAqua: Mehrsprachige Autor:innen des 19. Jahrhunderts quantitativ erforschen. Ein Forschungsbericht. Zenodo. https://doi.org/10.5281/zenodo.14194128 [ https://doi.org/10.5281/zenodo.14194128]
 
 ## Projektteam
 
@@ -54,7 +55,8 @@ The dataset includes information about:
 - Time periods and locations
 
 ## Documentation
-The complete research report for this project is available on Zenodo [Link to be added when published].
+The complete research report for this project is available on Zenodo:
+Mende, J.-K., Franke, A., Schmitt, V., & Wallner, K. (2024). MeAqua: Mehrsprachige Autor:innen des 19. Jahrhunderts quantitativ erforschen. Ein Forschungsbericht. Zenodo. https://doi.org/10.5281/zenodo.14194128 [ https://doi.org/10.5281/zenodo.14194128]
 
 ## Project Team
 - Jana-Katharina Mende (Project Lead, Comparative Literature)
