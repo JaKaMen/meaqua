@@ -15,19 +15,19 @@ Der Datensatz enthält:
 - Biographische Daten der Autor:innen (mit GND-Identifiern, soweit vorhanden)
 - Geographische Informationen (mit GeoNames-IDs)
 - Sprachkenntnisse
-Werke und Publikationen
-Geschlechterinformationen
-Zeiträume und Aufenthaltsorte
+- Werke und Publikationen
+- Geschlecht
+- Zeiträume und Aufenthaltsorte
 
 ## Dokumentation
 Der vollständige Forschungsbericht zum Projekt erscheint auf Zenodo [Link folgt nach Veröffentlichung].
 
 ## Projektteam
 
-Jana-Katharina Mende (Projektleitung, Komparatistik)
-Karin Wallner (Datenmanagement)
-Anna Maria Franke (Recherche)
-Verena Schmitt (Recherche)
+- Jana-Katharina Mende (Projektleitung, Komparatistik)
+- Karin Wallner (Datenmanagement)
+- Anna Maria Franke (Recherche)
+- Verena Schmitt (Recherche)
 ## Förderung
 Das Projekt wurde durch das HERMES Forschungsstudienprogramm gefördert.
 
@@ -38,28 +38,28 @@ MeAqua aims to quantitatively explore multilingual authors of the 19th century, 
 
 ## This repository contains:
 
-Documentation tables detailing the research methodology and data collection process
-CSV tables containing structured data about authors, locations, languages, gender, and works
-LibreOffice database with relational data structure
-Data files prepared for processing in NodeGoat
+- Documentation tables detailing the research methodology and data collection process
+- CSV tables containing structured data about authors, locations, languages, gender, and works
+- LibreOffice database with relational data structure
+- Data files prepared for processing in NodeGoat
 
 ## Data Structure
 The dataset includes information about:
 
-Author biographical data (with GND identifiers where available)
-Geographical information (with GeoNames IDs)
-Language proficiency
-Works and publications
-Gender information
-Time periods and locations
+- Author biographical data (with GND identifiers where available)
+- Geographical information (with GeoNames IDs)
+- Language proficiency
+- Works and publications
+- Gender information
+- Time periods and locations
 
 ## Documentation
 The complete research report for this project is available on Zenodo [Link to be added when published].
 
 ## Project Team
-Jana-Katharina Mende (Project Lead, Comparative Literature)
-Karin Wallner (Data Management)
-Anna Maria Franke (Research)
-Verena Schmitt (Research)
+- Jana-Katharina Mende (Project Lead, Comparative Literature)
+- Karin Wallner (Data Management)
+- Anna Maria Franke (Research)
+- Verena Schmitt (Research)
 ## Funding 
 This project was funded by the HERMES Research Study Program.
