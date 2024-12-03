@@ -33,7 +33,7 @@ Mende, J.-K., Franke, A., Schmitt, V., & Wallner, K. (2024). MeAqua: Mehrsprachi
 - Anna Maria Franke (Recherche)
 - Verena Schmitt (Recherche)
 ## Förderung
-Das Projekt wurde durch das HERMES Forschungsstudienprogramm gefördert.
+Dieses Projekt wurde durch das BMBF-Datenkompetenzzentrum HERMES gefördert.
 
 # MeAqua - Quantitative Research on Multilingual Authors of the 19th Century
 
